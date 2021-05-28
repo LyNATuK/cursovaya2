@@ -1,0 +1,63 @@
+Ivanchuk Maria Borisovna
+W
+45
+Omsk
+75
+true
+3.8
+Raskosnova Alisa Grigorievna
+W
+20
+Saint-Petersburg
+50
+true
+4
+Ivanchuk Evgenia Vadimovna
+W
+24
+Kiew
+100
+true
+5
+Sidorova Maria Alexandrovna
+W
+18
+Smolensk
+50
+true
+3.7
+Alexandrov Vasily Alexandrovich
+W
+22
+Smolensk
+67
+true
+3.8
+Zaytsev Yuri Yurievich
+M
+28
+Moscow
+87
+true
+4
+Lanova Olga Borisovna
+W
+16
+Omsk
+0
+false
+0
+Mamontova Iskra Ivanovna
+W
+35
+Kiew
+75
+true
+4.5
+Ivanova Ivanna Ivanovna
+W
+19
+Kiew
+0
+true
+5

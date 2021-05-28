@@ -1,0 +1,60 @@
+Ivanchuk Maria Borisovna
+W
+20
+S
+true
+2
+Raskosnova Alisa Grigorievna
+W
+20
+M
+true
+3
+Ivanchuk Evgenia Vadimovna
+W
+20
+L
+true
+2
+Sidorova Maria Alexandrovna
+W
+21
+S
+true
+4
+Alexandrov Vasily Alexandrovich
+W
+22
+M
+true
+2
+Zaytsev Yuri Yurievich
+M
+21
+L
+true
+3
+Lanova Olga Borisovna
+W
+19
+S
+false
+4
+Mamontov Oleg Ivanov
+M
+20
+S
+true
+2
+Losev Alex Vladimirovich
+M
+21
+M
+true
+3
+Korg Stanislav Igorevich
+M
+20
+M
+true
+2
